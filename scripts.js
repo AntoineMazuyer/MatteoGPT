@@ -1,5 +1,5 @@
 $(document).ready(function () {
-    const botResponse = "Merci pour votre message ! Je suis toujours prêt à aider.";
+    const botResponse = "Ahahahahahahahahah";
     
     $('#send-btn').click(function () {
         let userInput = $('#user-input').val();
